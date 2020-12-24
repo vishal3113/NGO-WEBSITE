@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(146, 130, 219);
+    backdrop-filter:rgb(228, 161, 161);
+}
+
+
+.heading{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    text-shadow: teal;
+    text-size-adjust: 20px;
+    
+}
+
+.shortheading{
+     text-align: left;
+     padding-left: 50px;
+     
+}
+
+.data1{
+    text-align: left;
+    padding-left: 100px;
+}
+
+img{
+    width: 40%;
+    
+    float: right;
+    padding-right: 100px;
+    padding-bottom: 200px;
+}
